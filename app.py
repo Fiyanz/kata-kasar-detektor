@@ -30,7 +30,7 @@ with st.sidebar:
     st.caption("[GitHub Repo](https://github.com/Fiyanz/kata-kasar-detektor)") 
 
 # ========== MAIN ==========
-st.title("🚨 Deteksi Kata Kasar Bahasa Indonesia")
+st.title("🚨 Kata Kasar Detektor")
 st.markdown("Masukkan teks pada kolom di bawah untuk mengetahui apakah mengandung ujaran kasar atau tidak.")
 
 user_input = st.text_area("📝 Masukkan Kalimat:", height=150)
