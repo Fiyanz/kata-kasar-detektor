@@ -23,7 +23,7 @@ with st.sidebar:
     - 🟡 Rasisme (Racist)
     - 🟢 Netral (Neutral)
     
-    Dibuat untuk keperluan tugas akhir/publikasi.
+    Dibuat untuk keperluan tugas akhir.
     """)
     st.markdown("---")
     st.caption("Made with ❤️ by Fiyanz")
