@@ -16,7 +16,7 @@ st.set_page_config(
 with st.sidebar:
     st.title("💬 Info Aplikasi")
     st.markdown("""
-    Aplikasi ini menggunakan model Machine Learning **(SVM + TF-IDF)**  
+    Aplikasi ini menggunakan model Machine Learning **(SVM)**  
     untuk mendeteksi apakah sebuah kalimat mengandung:
     - 🔴 Kekerasan (Violence)
     - 🟠 Pelecehan (Harassment)
